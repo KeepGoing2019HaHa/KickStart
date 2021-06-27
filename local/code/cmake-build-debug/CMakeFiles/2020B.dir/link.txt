@@ -1,0 +1,3 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\2020B.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\2020B.dir/objects.a @CMakeFiles\2020B.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\2020B.dir/objects.a -Wl,--no-whole-archive  -o 2020B.exe -Wl,--out-implib,lib2020B.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2020B.dir\linklibs.rsp

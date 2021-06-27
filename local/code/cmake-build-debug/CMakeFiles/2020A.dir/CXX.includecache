@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/2020A.cpp
+iostream
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/iostream
+

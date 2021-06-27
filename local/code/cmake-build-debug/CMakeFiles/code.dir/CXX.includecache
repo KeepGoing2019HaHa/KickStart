@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/main.cpp
+unordered_map
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/unordered_map
+vector
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/vector
+iostream
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/iostream
+stdio.h
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/stdio.h
+string.h
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/string.h
+map
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/map
+

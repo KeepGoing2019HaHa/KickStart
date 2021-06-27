@@ -1,0 +1,7 @@
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/2020A.dir
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/code.dir
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/2020B.dir
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/2020C.dir
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/2020D.dir
+C:/Users/Twinkle/Desktop/yiwei/kickstart/local/code/cmake-build-debug/CMakeFiles/edit_cache.dir
